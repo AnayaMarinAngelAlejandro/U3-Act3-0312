@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
           'Flutter Firebase',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.redAccent,
       ),
       body: _pages[_selectedIndex],
     );

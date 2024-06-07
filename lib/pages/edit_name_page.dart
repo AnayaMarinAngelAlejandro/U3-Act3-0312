@@ -23,7 +23,7 @@ class _EditNamePageState extends State<EditNamePage> {
           'Editar Nombre',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.redAccent,
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),

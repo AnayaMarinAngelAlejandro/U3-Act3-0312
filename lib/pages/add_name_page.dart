@@ -18,7 +18,7 @@ class _AddNamePageState extends State<AddNamePage> {
           'Agregar Nombre',
           style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.redAccent,
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
